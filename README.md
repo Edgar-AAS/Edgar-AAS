@@ -1,17 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+Edgar!;Bem-vindo+ao+meu+GitHub+🚀;" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Olá,%20eu%20sou%20Edgar!-Bem%20vindo%20ao%20meu%20GitHub%20🚀-58A6FF?style=for-the-badge" alt="Bem vindo"/>
 </p>
 
 ---
 
-<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-AAS&layout=compact&langs_count=7&theme=dracula"/>
-
 ## 👨‍💻 Sobre mim
-- 🧠 Apaixonado por tecnologia, inovação e solucionar problemas complexos.
-- 📱 Possuo experiência com desenvolvimento mobile (Swift, Flutter & Kotlin).
-- 🚀 Sempre buscando aprender coisas novas e compartilhar conhecimento!
-- 🎯 Foco em entregar soluções que geram impacto.
+
+Sou desenvolvedor de software focado em soluções mobile e backend, com experiência em Swift, Flutter, Kotlin, C# e .NET. Gosto de trabalhar com inovação, aprendendo e compartilhando conhecimentos, sempre com objetivo de resolver desafios e gerar resultados práticos.
 
 ---
 
@@ -36,10 +33,9 @@
 
 ---
 
-## 📫 Entre em contato
+## 📫 contato
 
 - LinkedIn: [Edgar-AAS](https://www.linkedin.com/in/edgar-aas/)
-- Email: edgar@example.com
 
 ---
 
